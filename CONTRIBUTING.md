@@ -2,8 +2,6 @@
 
 Hi there! We're thrilled that you'd like to contribute to this project. Your help is essential for keeping it great.
 
-Please note that this project is released with a [Contributor Code of Conduct](https://github.com/SauravMukherjee44/CodeIN-Community-Website/blob/main/CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
-
 ## Issues and PRs
 
 If you have suggestions for how this project could be improved, or want to report a bug, open an issue! We'd love all and any contributions. If you have questions, too, we'd love to hear them.
@@ -12,23 +10,23 @@ We'd also love PRs. If you're thinking of a large PR, we advise opening up an is
 
 ## How to Contribute
 
-- Take a look at the Existing [Issues](https://github.com/SauravMukherjee44/CodeIN-Community-Website/issues) or create your own!
+- Take a look at the Existing [Issues](https://github.com/DiplomaTechCommunity/DTCWebsite/issues) or create your own!
 - Fork the Repo and create a Branch for any Issue that you are working upon.
 - Create a Pull Request which will be promptly reviewed and suggestions would be added to improve it.
 - Add Screenshots to help us know what this is all about.
 
 ## How to make a Pull Request
 
-**1.** Fork the repository by clicking on the <a href="https://github.com/SauravMukherjee44/CodeIN-Community-Website"><img src="https://img.icons8.com/ios/24/000000/code-fork.png"></a> symbol at the top right corner.
+**1.** Fork the repository by clicking on the <a href="https://github.com/DiplomaTechCommunity/DTCWebsite"><img src="https://img.icons8.com/ios/24/000000/code-fork.png"></a> symbol at the top right corner.
 
 **2.** Clone the forked repository.
 ```
-   git clone https://github.com/SauravMukherjee44/CodeIN-Community-Website.git
+   git clone https://github.com/DiplomaTechCommunity/DTCWebsite.git
 ```
 
 **3.** Navigate to the project directory.
 ```
-   cd CodeIN-Community-Website
+   cd DTCWebsite
 ```
 
 **4.** Create a new branch:
@@ -57,7 +55,7 @@ We'd also love PRs. If you're thinking of a large PR, we advise opening up an is
 
 **9.** Setup a reference(remote) to the original repository to get all the changes from the remote.
 ```
-   git remote add upstream  https://github.com/SauravMukherjee44/CodeIN-Community-Website.git
+   git remote add upstream  https://github.com/DiplomaTechCommunity/DTCWebsite.git
 ```
 
 **10.** Check the remotes for this repository.
