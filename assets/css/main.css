@@ -1100,11 +1100,10 @@ hr {
   background: #fff;
   transition: all 0.4s ease-in;
   transform-style: preserve-3d;
-  margin: 10px;
 }
 
 .events_box:hover {
-  border: 5px solid #ffc61b;
+  border: 5px solid #322653;
   transform: rotateY(180deg);
 }
 
@@ -1137,6 +1136,7 @@ hr {
   left: 0;
   display: flex;
   flex-direction: column;
+  justify-content: center;
 }
 
 .events_box .content a {
@@ -1173,7 +1173,6 @@ hr {
 
 @media screen and (max-width: 1200px) {
   .events_box {
-    margin-left: 1.5em;
     border: 2px solid;
   }
 }
