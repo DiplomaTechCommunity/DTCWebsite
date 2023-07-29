@@ -9,8 +9,8 @@ html {
 }
 
 :root {
-  --primary: #f7b801;
-  --secondary: #ffd100;
+  --primary: #322653;
+  --secondary: #453969;
 }
 
 body {
@@ -1095,7 +1095,7 @@ hr {
 }
 
 .events_box:hover {
-  border: 5px solid #ffc61b;
+  border: 5px solid #322653;
   transform: rotateY(180deg);
 }
 
@@ -1128,6 +1128,7 @@ hr {
   left: 0;
   display: flex;
   flex-direction: column;
+  justify-content: center;
 }
 
 .events_box .content a {
