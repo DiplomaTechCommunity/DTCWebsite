@@ -1556,7 +1556,7 @@ textarea {
 }
 
 #copyright p a {
-  color: var(--primary);
+  color: #a79acc;
   text-decoration: none;
 }
 
