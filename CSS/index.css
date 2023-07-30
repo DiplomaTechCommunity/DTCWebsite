@@ -65,9 +65,3 @@ button#moreDetails:hover {
     background-color: #b1933d;
     color: white;
 }
-
-.nav-logo{
-position: absolute;
-left: 100px;
-top: 10px;
-}
