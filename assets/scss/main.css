@@ -602,7 +602,7 @@ hr {
 }
 
 .navbar-expand-md .navbar-nav .nav-link {
-  color: #fff;
+  color: #333;
   font-weight: 400;
   padding: 7px 0;
   cursor: pointer;
